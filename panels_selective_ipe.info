@@ -1,0 +1,7 @@
+name = Panels Selective IPE
+description = Provides a Panels Renderer Pipeline where you can limit IPE functionality only to certain regions
+core = 7.x
+package = "Panels"
+dependencies[] = panels_ipe
+
+
