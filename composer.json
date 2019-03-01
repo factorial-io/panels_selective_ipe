@@ -1,0 +1,6 @@
+{
+  "name": "factorial-io/panels_selective_ipe",
+  "description": "Selective panels renderer",
+  "type": "drupal-module",
+  "license": "MIT"
+}
